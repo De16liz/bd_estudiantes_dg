@@ -1,0 +1,4 @@
+sistema para notas de los aprendices.
+
+nombre de la Base de Datos: bd_estudiantes_dg
+contiene 3 tablas
